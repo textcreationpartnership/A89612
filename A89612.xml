@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the great victories and successes of the garrison of Plymouth, since the last account, given you in the continuation of the true narration, May 10. Truly expressed from thence in two severall letters, the one from Leivetenant Collonell Martin, commander in chiefe there, to a friend of his in London. The other by a captaine there, to a worthy minister of this citie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89612</idno>
+            <idno type="STC">Wing M836</idno>
+            <idno type="STC">Thomason E50_10</idno>
+            <idno type="STC">ESTC R23226</idno>
+            <idno type="EEBO-CITATION">99871939</idno>
+            <idno type="PROQUEST">99871939</idno>
+            <idno type="VID">155148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155148)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E50[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the great victories and successes of the garrison of Plymouth, since the last account, given you in the continuation of the true narration, May 10. Truly expressed from thence in two severall letters, the one from Leivetenant Collonell Martin, commander in chiefe there, to a friend of his in London. The other by a captaine there, to a worthy minister of this citie.</title>
+                  <author>Martin, Robert, Lieutenant Colonel.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. P. and are to be sold at the Marigold in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 4th. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plymouth (England) --  History --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155148:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>A RELATION OF THE GREAT Victories and Succeſſes of the Garriſon of <hi>Plymouth,</hi> ſince the laſt <hi>Account,</hi> given you in the Continuation of the true Narration, <hi>May</hi> 10.</p>
+            <p>Truly Expreſſed from thence in two ſeverall Letters, the one from Leivetenant Collonell <hi>Martin,</hi> Commander in Cheife there, to a Friend of his in <hi>LONDON.</hi>
+            </p>
+            <figure>
+               <figDesc>fleur-de-lis</figDesc>
+            </figure>
+            <p>The other by a Captaine there, to a worthy <hi>Miniſter</hi> of this CITIE.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. P.</hi> and are to be ſold at the <hi>Marigold</hi> in <hi>Pauls</hi> Church-yard. <hi>June</hi> 4<hi rend="sup">th.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:155148:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:155148:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>A Letter written from <hi>Plymouth,</hi> by Leivetenant Collonell <hi>Martin,</hi> Com<g ref="char:EOLhyphen"/>mander in chiefe there, to a Friend of his in LONDON: Wherein is Expreſſed ſeverall Victories late<g ref="char:EOLhyphen"/>ly obtained in thoſe Parts, by the the PARLIAMENTS forces.</head>
+            <opener>
+               <salute>SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Mong all my friends in <hi>London,</hi> I cannot at preſent only ſalute you as well to minde you of your minding us, whom and whoſe condition I preſume you connot forget; As likewiſe to informe you of what great things the God of power and mercy hath lately done for us of this place, even ſince the time you left us. I beleeve you have heard though not from me, of our beating the Enemy at St. <hi>Budiex,</hi> ſince which time in divers ſmall skirmiſhes betwixt our Horſe and theirs, we have put them to the worſt, and taken priſoners.</p>
+            <p>On <hi>Saturday</hi> laſt in the morning, I drew forth 1000. Foote, and about 100. Horſe; with theſe we marched to<g ref="char:EOLhyphen"/>wards <hi>Trenmans Jumpe,</hi> but in regard the maine ſtrength of the Enemy lay at <hi>Plympton,</hi> leaſt they might fall on our reare, I commanded 400. Musketeeres with 25. Horſe to make good the ſeverall wayes about <hi>Compton</hi> with the reſt of Horſe and Foote we drew up at <hi>Hoptons</hi> worke, from whence the parties were iſſued forth; Firſt 145. Musketteeres, under the command of Captaine <hi>Hals,</hi> who with the helpe of the Horſe fell upon and carried the Ene<g ref="char:EOLhyphen"/>mies Guard at the <hi>Jumpe,</hi> before any of the reſt which I
+<pb n="2" facs="tcp:155148:3"/>
+               <!-- PDF PAGE 69 -->commanded to ſecond them; where come up they tooke the whole Guard not one man eſcaped, which were Threeſcore and twelve men, and about Fiftie Horſe, Dra<g ref="char:EOLhyphen"/>goones and Troopers; with theſe they retreated, and a little above <hi>Knockins Hole</hi> were charged in the Reare by two Troopes of the Enemies Horſe, which advanced from <hi>Warlie H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe,</hi> but were by the ſpeedy and reſolute facing of our men quickly broken, routed, and purſued above a mile. Here were added to our priſonees 17. and as many Horſe. There were taken about 100. Armes, Comman<g ref="char:EOLhyphen"/>ders and Officers, none ſave two Lievetenants one Cornet, and one Corporall of Horſe. With theſe we returned, ha<g ref="char:EOLhyphen"/>ving loſt only one man killed by his owne Musket ſome others hurt. Yeſterday I ſent Captaine <hi>Hayne</hi> with 300. Musketeeres over the water to <hi>Mount Edgcombe,</hi> the par<g ref="char:EOLhyphen"/>ticulars of the ſervice will be too tedious. They landed un<g ref="char:EOLhyphen"/>der the <hi>Warren,</hi> upon which the Enemy left all their Ord<g ref="char:EOLhyphen"/>nance, which were but two Sacats, and one Demycullve<g ref="char:EOLhyphen"/>ring: When the paſſage was open, I went over my ſelfe, with 20. Horſe, ſet a Gaurd upon <hi>Mount Edgcombe,</hi> and by this time Captain <hi>Duttue</hi> who was commanded to march to <hi>Maker Church</hi> who had beaten the Enemy there, who indevored to poſſeſſe the place before him, from thence he followed the Enemy to <hi>Milbrooke,</hi> which was preſent<g ref="char:EOLhyphen"/>ly yeelded before my ſelfe was able to come up, the Ene<g ref="char:EOLhyphen"/>my pretended a parley whilſt their Souldiers got cleare of the Towne, yet wee recovered two Collours and three hundred Armes, three Barrells of Powder, there was only one peece of Ordnance which hee brought not off, beeing poſſeſt of the Towne, I ſent Captaine <hi>Chafin</hi> to view a great worke which they had upon <hi>Jusworth point,</hi> but be<g ref="char:EOLhyphen"/>fore his comming the enemy had left it with ſixe peeces of Ordance, there I ſet a ſtrong Guard till the water ſhould come in, whereby wee might carry away the Gunnes with the Cattell which the Souldiers had taken: From thence I marched to <hi>Cawſon,</hi> having appointed Captaine <hi>Hayne</hi> to attempt the Enemies worke there, the ſtrength of which I then knew not, when I came I found him par<g ref="char:EOLhyphen"/>lying with the worke, which was forthwith delivered up,
+<pb n="3" facs="tcp:155148:3"/>
+               <!-- PDF PAGE 69 -->in it were but three peeces of Ordnance but an impregna<g ref="char:EOLhyphen"/>ble peece we had not tane then to bring away there Guns<g ref="char:punc">▪</g> ſome of them I cauſed to bee diſmounted, there being two others in another little worke; but by this time I thought fit to returne to the Guard at <hi>Mount Edgcombe</hi> and ſent the diſperſed Souldiers there being now with mee not above forty foote and ten Horſe, after this by the Im<g ref="char:EOLhyphen"/>portunity of ſome I conſented to make triall of the ſtrength of the Houſe, which wee did, and fired the Ban<g ref="char:EOLhyphen"/>quetting Houſe, but could not enter, whilſt wee were thus imployed, on the other ſide the enemy drawes up neere a thouſand Horſe and foote againſt our workes, but were beaten back, meane while a ſtrong party of Horſe were ſent about by <hi>Salt Aſh,</hi> from whence they tooke the Ga<g ref="char:EOLhyphen"/>riſon Souldiers, and with great haſt came towards <hi>Mil<g ref="char:EOLhyphen"/>brooke</hi> and fell into the worke at <hi>Juſworth</hi> when our Boates which had taken in the Ordnance, Men, and plunder were not halfe muket ſhort off the ſhore, I was informed of their comming, and conſidering the ſtrength of the Houſe and the fewneſſe and wearineſſe of my men and Horſes, I commanded their retreate which wee made in very good order, when the enemy had got the top of the Hills. I be<g ref="char:EOLhyphen"/>leeve wee brought over fifty good horſes, I could not yet take an exact accompt of them, neere 200. ſheepe, with a 100. Oxen, Kine and young Cattell, priſoners we tooke not above ten, beſides ſome Country men which I have ſince freed, nine peeces of Ordnance, di<g ref="char:EOLhyphen"/>vers of our owne men which were kept priſoners in <hi>Milbrooke</hi> were now delivered, wee loſt at the Houſe one Lieutenant, three common Soul<g ref="char:EOLhyphen"/>diers, all which were ſuch as had no calling there. Thus have I given you account of the goodneſſe of the Almighty towards us, I hope theſe are but beginning of greater mercies: Men from all parts come in to us daily, had we but money to pay them; you can hardly immagine the greatneſſe of our ſtreights for want of it, pray Sir as you tender the wel<g ref="char:EOLhyphen"/>fare of this place, ſolieite earneſtly for a ſupply for us, wee ſhould not want men could we but afford them ordinary incouragement.</p>
+            <closer>
+               <salute>Sir</salute> 
+               <signed>I am your ready friend. ROBERT MARTIN.</signed> 
+               <dateline>Plymouth <date>May 16. 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:155148:4"/>
+            <!-- PDF PAGE 70 -->
+            <head>A TRVE COPY OF A Letter written from <hi>Plymouth, May,</hi> 16. by a Captain there, to a wor<g ref="char:EOLhyphen"/>thy <hi>Miniſter</hi> of this <hi>Citie</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>INCE my laſt unto You, it hath plea<g ref="char:EOLhyphen"/>ſed God to bleſſe our endeavours, and to give us ſome victories over our E<g ref="char:EOLhyphen"/>nemies; which I ſhall here give you a certain Relation of.</p>
+            <p>On the 11<hi rend="sup">th</hi>, of this inſtant <hi>May,</hi> we ſallied out into the Enemies Quar<g ref="char:EOLhyphen"/>ters at the <hi>Jumpe,</hi> where they had a guard of Horſe and foo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, they being neere 80. All which were killed and ta<g ref="char:EOLhyphen"/>ken by our men, with the looſſe of one man only on our ſide. We killed an Iriſh Commander that would take no quarter after we had gotten the worke, and the reſt we brought away priſoners with their armes: The Enemie then having his alarum in other quarters, gathered toge<g ref="char:EOLhyphen"/>ther, and followed our men as they retreated: but our men were armed with ſuch reſolution, as that they
+<pb n="5" facs="tcp:155148:4"/>
+               <!-- PDF PAGE 70 -->thought it diſhonorable for them to come off without op<g ref="char:EOLhyphen"/>poſing them alſo, which they did with good ſucceſſe. We killed 6. or 7. of them, and tooke 17. priſoners: In all that day we tooke 88. priſoners, beſides thoſe that were ſlaine, were 60. Horſe and about 100. mens armes.</p>
+            <p>On the 15<hi rend="sup">th</hi>. of this inſtant, we ſteered our courſe ano<g ref="char:EOLhyphen"/>ther way, and fell over on th <hi>Corniſh-ſide,</hi> where it pleaſed God to give us wonderfull ſucceſſe: We landed our men not farre from <hi>Mount Edgcombe,</hi> where they kept their guards, but upon our firſt onſett they forſooke their guards, and left their guns, and betooke themſelves to the Houſe, we leaving a party to keepe play with the Houſe, drew away a good party further into the Country. We firſt marched to a place called <hi>Maker,</hi> where in the Church we had a barrell of Gunpowder, and tooke ſome few men, but the reſt fled away, ſome to <hi>Milbrooke,</hi> and ſome to <hi>Cauſan-fort;</hi> We leaving another party to make good the Church to ſecure our retreate, matched forward to <hi>Milbrooke,</hi> where they had a Garriſon of about 250. all which fled, and ſo without oppoſition of any but the Towne, which for feare of plundring yeelded upon quar<g ref="char:EOLhyphen"/>ter, we tooke in it 7. great Guns, and many Armes, 3 bar<g ref="char:EOLhyphen"/>rells of powder, many great ſhot, which we haveing ſent away marched to <hi>Cauſan</hi> and ſummoned their Fort, which yeelded alſo upon compoſition, where we had five peices of Ordnance, and one barrell and halfe of powder, and ſome great ſhot. We could not bring off our Gu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s from <hi>Cauſan,</hi> for feare of the Enemie, being on our backs. Then leaving <hi>Cauſan</hi> we returned to <hi>Mount Edgcombe,</hi> and ſummoned the Houſe, but they would not yeeld, whereupon we ſtormed it, tooke the Out-houſes, and burnt them and the banqueting-houſe, but the Main-houſ being built in ſuch a forme and with ſtone, was not fie<g ref="char:EOLhyphen"/>red. The night drawing on, and the Enemy being on our backs we retreated, bringing over with us 50. Horſe, 100 heade of Cattle, and neere 200. Sheepe, and 3. peices of Ordnance from under <hi>Mount Edgcombe,</hi> that played upon
+<pb n="6" facs="tcp:155148:5"/>
+               <!-- PDF PAGE 71 -->the Boats which paſſed up to <hi>Sone-houſe,</hi> we tooke 12. in all and brought them away. We tooke this day about 200. mens armes.</p>
+            <p>Lievetenant Colonel <hi>Martin</hi> hath for the preſent the ſole command of the Garriſon and carrieth things very ſweet<g ref="char:EOLhyphen"/>ly, to the content of all honeſt men. I am perſwaded had he not beene here, we had beene in a very ſad condition.</p>
+            <p>We are extreamly neceſſitated for want of Money, pray doe your utmoſt to procure ſome for us.</p>
+            <div type="postscript">
+               <head>Poſtſcrip.</head>
+               <p>We Iſſued out of the Towne one <hi>Wedenſday</hi> the 22. of <hi>May,</hi> toward <hi>Warly Houſe</hi> 4. mile out of the Towne, where we tooke 50. Horſe and retreated with the loſſe of 6. men, and upon our retreate their Horſe purſued us. Which being diſcovered a party of our Horſe faced about to encounter with them, and fell in pell-mell amongſt them, and tooke 6. Horſe and men with their compleat Armes, the Enemy then perceiving our men to be no way daunted, but rather joyfull; and to perſiſt, with courage, they returned againe to their Quarters, that we could not ſee one in 4. miles about, but at <hi>Plympton,</hi> where we hope ere long to find them.—Added by one who was an eye witneſſe of it, being now in London.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
